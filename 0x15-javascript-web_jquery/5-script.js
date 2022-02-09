@@ -1,3 +1,3 @@
-$('div#add_item').click(function () {
-  $('UL.my_list').add('<li>Item</li>').appendTo('UL.my_list');
+$('DIV#add_item').click(() => {
+  $('UL.my_list').append('<li>Item</li>');
 });

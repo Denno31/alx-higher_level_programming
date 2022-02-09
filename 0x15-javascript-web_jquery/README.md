@@ -1,2 +1,3 @@
-# This one handles activities in the frontend
-# Caries JavaScript code
+# 0x15-javascript-web_jquery
+
+Dabbling with Jquery
